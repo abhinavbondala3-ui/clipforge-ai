@@ -1,0 +1,6 @@
+{
+  "name": "ClipForge AI",
+  "description": "Turn long-form videos into 10-20 viral short-form vertical clips (9:16) with punchy hooks, virality scoring, and animated captions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

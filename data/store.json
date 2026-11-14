@@ -1,0 +1,14 @@
+{
+  "users": [],
+  "jobs": [],
+  "adminConfig": {
+    "workerWebhookUrl": "",
+    "workerWebhookSecret": "",
+    "paymentProvider": "razorpay",
+    "razorpayKeyId": "",
+    "razorpayKeySecret": "",
+    "lemonSqueezyApiKey": "",
+    "lemonSqueezyStoreId": "",
+    "lemonSqueezyWebhookSecret": ""
+  }
+}
